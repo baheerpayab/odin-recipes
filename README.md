@@ -1,1 +1,2 @@
 # odin-recipes
+Current project is to create a recipes page with the html skills that I have acquired so far. With prior html experience, this should only take a couple minutes and is more so a quick consolidation.
